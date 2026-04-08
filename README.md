@@ -39,4 +39,4 @@ To reproduce this analysis:
 Hilary Griggs - hilarybgriggs@gmail.com
 
 ## License
-Data from INL and PNL's NPD Toolkit https://npd-hydro.inl.gov/npdinsights
+Data from EIA: https://www.eia.gov/consumption/residential/
