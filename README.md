@@ -1,5 +1,5 @@
 ## Energy Insecurity Project Description
-Energy insecurity is a chronic and widespread problem in the United States, and increasing energy prices are putting further pressure on households. Energy insecurity refers to the inability of households to meet basic energy needs, often leading to difficult tradeoffs such as reducing food or medicine spending or living in unsafe temperatures.This project analyzes trends in household energy insecurity in the U.S. using the EIA Residential Energy Consumption Survey. 
+Energy insecurity is a chronic and widespread problem in the United States, and increasing energy prices are putting further pressure on households. Energy insecurity refers to the inability of households to meet basic energy needs, often leading to difficult tradeoffs such as reducing food or medicine spending or living in unsafe temperatures. This project analyzes trends in household energy insecurity in the U.S. using the EIA Residential Energy Consumption Survey. Analysis found a direct correlation between low-income status and higher rates of energy insecurity, as well as a consistent increase in overall energy insecurity in the past 10 years. 
 
 ## Data Sources
 
