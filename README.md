@@ -18,10 +18,10 @@ This project analyzes trends in energy insecurity in U.S. households using EIA R
 
 ## Repository Structure
 
-- `notebooks/` — analysis notebook
+- `notebooks` — analysis notebook
 - `raw_data` — raw datasets
 - `processed_data` — cleaned dataset used for analysis
-- `communication/` — figures and visual outputs
+- `figures` — figures and visual outputs
 
 ## Reproducibility
 
