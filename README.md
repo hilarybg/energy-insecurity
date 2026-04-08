@@ -14,7 +14,7 @@ Data for this project comes from the U.S. Energy Information Administration (EIA
 - Created visualizations to compare energy insecurity indicators
 
 ## Key Findings 
-This project analyzes trends in energy insecurity in U.S. households using EIA RECS data from 2015, 2020, and 2024. Results show that energy insecurity has increased over time, particularly after 2020, with food and medical tradeoffs being the most common form. Regional differences highlight higher vulnerability in certain areas.
+This project analyzes trends in energy insecurity in U.S. households using EIA RECS data from 2015, 2020, and 2024. Results show that energy insecurity has significantly since 2020, with food and medical tradeoffs being the most common form. Regional differences highlight higher vulnerability in certain areas.
 
 ## Repository Structure
 
